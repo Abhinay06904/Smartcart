@@ -64,3 +64,22 @@ Smartcart/
 ├── smartcart_customers.csv
 ├── .gitignore
 └── README.md
+---
+
+## Dataset
+
+The dataset contains customer-related information used for segmentation analysis.
+
+Example attributes include:
+- Customer demographics
+- Spending behavior
+- Purchase-related features
+
+---
+
+## How to Run the Project
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Abhinay06904/Smartcart.git
